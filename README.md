@@ -1,7 +1,11 @@
-## GitHub Stats (just for fun)
+## Status
 > A quick snapshot of my GitHub activity — not a measure of skill.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Takuya-Sakai91&show_icons=true)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Takuya-Sakai91&theme=2077)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ---
 
@@ -20,5 +24,9 @@
 **Infra / DevOps**
 [![Infra](https://skillicons.dev/icons?i=linux,docker,nginx,terraform,heroku,githubactions)](https://skillicons.dev)
 
-**Tools**
-[![Tools](https://skillicons.dev/icons?i=git,github,nodejs,npm,pnpm,yarn,vim,sentry,notion,discord)](https://skillicons.dev)
+<details>
+  <summary><b>More tools</b></summary>
+
+  [![Tools](https://skillicons.dev/icons?i=git,github,nodejs,npm,pnpm,yarn,vim,sentry,notion,discord)](https://skillicons.dev)
+
+</details>
