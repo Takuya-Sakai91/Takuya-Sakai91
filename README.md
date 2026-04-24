@@ -1,5 +1,4 @@
 ## Status
-> A quick snapshot of my GitHub activity — not a measure of skill.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -9,8 +8,7 @@
 
 ---
 
-## Technologies I've used / studied
-> Things I’ve used or studied (not claiming expertise).
+## Technologies
 
 **Core**
 [![Core](https://skillicons.dev/icons?i=ruby,rails,aws)](https://skillicons.dev)
