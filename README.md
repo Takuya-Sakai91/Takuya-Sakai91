@@ -14,7 +14,7 @@
 [![Core](https://skillicons.dev/icons?i=ruby,rails,aws)](https://skillicons.dev)
 
 **Backend / DB**
-[![Backend](https://skillicons.dev/icons?i=postgres,redis,sqlite,graphql)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=postgres,redis,sqlite,mysql,graphql)](https://skillicons.dev)
 
 **Frontend**
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,jquery)](https://skillicons.dev)
