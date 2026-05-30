@@ -15,7 +15,7 @@
   Backend-focused engineer building practical web systems with Ruby on Rails, AWS, and modern frontend tooling.
 </p>
 
-### Focus
+### About Me
 
 - Designing and improving Rails applications with clear domain boundaries.
 - Building GraphQL and REST APIs backed by PostgreSQL, Redis, and MySQL.
@@ -54,8 +54,12 @@
 ### GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Takuya-Sakai91&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takuya-Sakai91&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Takuya-Sakai91&theme=github_dark" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Takuya-Sakai91&theme=github_dark" alt="Top languages by repository" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Takuya-Sakai91&theme=github_dark" alt="Top languages by commit" />
 </p>
 
 <p align="center">
